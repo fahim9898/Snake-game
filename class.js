@@ -1,6 +1,7 @@
 var score=0;
 var cou=0;
 var block_locX=[];
+console.log("He");
 var block_locY=[];
 class Snack{
     constructor(){
